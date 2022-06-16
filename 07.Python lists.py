@@ -18,7 +18,10 @@ print(b)
 print(b[1])
 print(b[-1])
 print(b[1:4])
-
+x = ['rakib','romio']
+if 'rakib' in x:
+    print('Yes, True it')
+    
 a = ['bangladesh',' small', 'country ','and' ,'beautiful','village', 'more']
 
 if 'bangladesh' in a:
