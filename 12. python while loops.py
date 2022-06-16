@@ -25,3 +25,9 @@ while i < 6:
     i += 1
 else:
     print('i is no longer less than 6')
+    
+    
+a = 1
+while a < 4 :
+    a += 1
+    print(a)
